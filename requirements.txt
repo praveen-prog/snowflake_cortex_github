@@ -1,0 +1,24 @@
+python-dotenv
+snowflake-snowpark-python
+snowflake-connector-python
+snowflake-ml-python
+snowflake.core
+notebook
+ipykernel
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-llms-openai
+llama-index-embeddings-openai
+llama-index-readers-github
+llama_index==0.10.19
+llama_index_core==0.10.19
+nest_asyncio
+trulens
+trulens-connectors-snowflake
+trulens-providers-cortex
+trulens-core
+snowflake-sqlalchemy
+flask
+streamlit
+from-root
+-e .
